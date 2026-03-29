@@ -2,7 +2,7 @@
 
 ## About
 MCA 1st Year student learning AI and Machine Learning.
-3 hours daily practice — coach style learning.
+
 
 ## Projects
 
