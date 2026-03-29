@@ -17,13 +17,13 @@ from sklearn.metrics import mean_absolute_error, r2_score
 import warnings
 warnings.filterwarnings("ignore")
 
-# Load dataset — built in, no internet needed!
+# Load dataset — built in
 housing = fetch_california_housing()
 
 # Convert to DataFrame:
 df = pd.DataFrame(housing.data, columns=housing.feature_names)
 df["Price"] = housing.target   # target column add karo
-                               # Price is in $100,000 units
+                               
 
 print(df.shape)
 print(df.head())
