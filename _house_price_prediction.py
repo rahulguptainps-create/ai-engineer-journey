@@ -6,6 +6,13 @@
 # Best Model: Random Forest — R2=0.81, MAE=0.33
 # ================================================
 
+# NOTE: If you get Error 403, run this first:
+# import ssl
+# ssl._create_default_https_context = ssl._create_unverified_context
+#
+# California Housing Price Prediction
+# Best Model: Random Forest — R2=0.81 | MAE=0.33
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
