@@ -17,6 +17,13 @@ MCA 1st Year student learning AI and Machine Learning.
 - **MAE:** $33,000
 - **Tools:** Python, Pandas, Scikit-learn, Matplotlib
 
+ ### 3. MNIST Handwritten Digit Recognition (CNN)
+- **Model:** Convolutional Neural Network (PyTorch)
+- **Accuracy:** 99.10%
+- **Dataset:** 70,000 handwritten digit images
+- **Tools:** Python, PyTorch, torchvision
+- **Key concepts:** Conv layers, MaxPooling, Flatten
+
 ## Skills Learned
 - Python fundamentals
 - NumPy and Pandas
